@@ -1,1 +1,1 @@
-This folder contains the raw data and cleaned data for the analysis.
+This folder contains the raw data for the analysis. Cleaned data file is too large to upload.
